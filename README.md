@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning html and css .
 - 💞️ I’m looking to collaborate on projects related to web development .
-- 📫 How to reach me ayomiposisoladoye@gmail.com .
+- 📫 How to reach me ayomiposilasaki@gmail.com .
 
 <!---
 Ayomiposiii/Ayomiposiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
